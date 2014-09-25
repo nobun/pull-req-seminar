@@ -1,7 +1,9 @@
 pull-request-seminar
 ====================
 
-webページは[ココ](http://goo.gl/vxCvda)、このページに皆さんのコメントを追加するため。  
+[webページは](http://goo.gl/vxCvda)に皆さんのコメントを追加します。
+
+#方法
 
 「index.html」にある  
 
